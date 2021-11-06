@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="halloween.png">
+<TextureAtlas imagePath="halloween_bg.png">
 	<!-- Created with Adobe Animate version 19.2.1.408 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Background lighting0000" x="0" y="0" width="2367" height="1221"/>

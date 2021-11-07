@@ -24900,7 +24900,7 @@
     "mustHitSection": true
    }
   ],
-  "player2": "lila",
+  "player2": "spooky",
   "eventObjects": [
    {
     "name": "Init BPM",
@@ -24910,7 +24910,7 @@
    }
   ],
   "chartVersion": "2",
-  "song": "Arachnophobia",
+  "song": "South",
   "validScore": true,
   "stage": "halloween",
   "needsVoices": true,

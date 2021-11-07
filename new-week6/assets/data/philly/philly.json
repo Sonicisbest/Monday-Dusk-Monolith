@@ -25090,7 +25090,7 @@
     "mustHitSection": true
    }
   ],
-  "player2": "pico-cloaked",
+  "player2": "pico",
   "chartVersion": "2",
   "eventObjects": [
    {
@@ -25100,7 +25100,7 @@
     "type": "BPM Change"
    }
   ],
-  "song": "Denial",
+  "song": "Philly",
   "needsVoices": true,
   "stage": "philly",
   "validScore": true,

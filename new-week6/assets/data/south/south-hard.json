@@ -2,7 +2,7 @@
  "song": {
   "sectionLengths": [],
   "player1": "bf",
-  "player2": "lila",
+  "player2": "spooky",
   "notes": [
    {
     "endTime": 2000,
@@ -25594,7 +25594,7 @@
     "type": "BPM Change"
    }
   ],
-  "song": "Arachnophobia",
+  "song": "South",
   "sections": 0,
   "needsVoices": true,
   "stage": "halloween",

@@ -24065,7 +24065,7 @@
     "mustHitSection": true
    }
   ],
-  "player2": "pico-cloaked",
+  "player2": "pico",
   "chartVersion": "2",
   "eventObjects": [
    {
@@ -24075,7 +24075,7 @@
     "type": "BPM Change"
    }
   ],
-  "song": "Cloaked",
+  "song": "Pico",
   "validScore": true,
   "sections": 0,
   "needsVoices": true,
